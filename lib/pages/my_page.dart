@@ -13,7 +13,7 @@ class _MyPageState extends State<MyPage> {
     // TODO: implement build
     return Scaffold(
       body: Center(
-        child: Text('我的哈哈'),
+        child: Text('我的'),
       ),
     );
   }
